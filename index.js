@@ -10,4 +10,8 @@ class BoardMember {
     return 'No, I must disagree'
   }
   
+  approve() {
+    return 'No, I must disagree'
+  }
+  
 }
