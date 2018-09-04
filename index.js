@@ -18,7 +18,7 @@ class BoardMember {
     return 'I like to help people.'
   }
   
-  doCharity() {
+  releasePressStatement() {
     return 'I like to help people.'
   }
   
